@@ -1,0 +1,11 @@
+*{margin: 0px auto;padding:0px;}
+
+body{
+	text-align:center;color:#90683b;background:#ffebd2 
+}
+
+a:hover{color:#b52200;}
+
+a{color: #90683b; text-decoration: none;}
+
+img{border:5px outset;}
